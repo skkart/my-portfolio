@@ -10245,3 +10245,9 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.my-content {
+  font-size: 25px !important;
+  color: white !important;
+  font-weight: bolder !important;
+}
